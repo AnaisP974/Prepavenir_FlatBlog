@@ -1,11 +1,12 @@
-[
+{
+  [
   {
     "id": 1,
     "titre": "Introduction à Vanilla JavaScript",
     "desc": "Les bases de Vanilla JavaScript pour débutants.",
     "contenu": "Vanilla JavaScript est le terme utilisé pour désigner JavaScript pur, sans bibliothèques ou frameworks...",
-    "createdAt": "2024-07-07T12:00:00Z",
-    "updatedAt": "2024-07-07T12:00:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "John Doe",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -15,8 +16,8 @@
     "titre": "Comprendre le DOM en Vanilla JavaScript",
     "desc": "Comment manipuler le DOM en utilisant uniquement Vanilla JavaScript.",
     "contenu": "Le DOM (Document Object Model) est une interface de programmation qui permet aux scripts de mettre à jour...",
-    "createdAt": "2024-07-07T12:01:00Z",
-    "updatedAt": "2024-07-07T12:01:00Z",
+    "createdAt": "07 Juillet 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Jane Smith",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -26,8 +27,8 @@
     "titre": "Les événements en Vanilla JavaScript",
     "desc": "Gestion des événements en JavaScript pur.",
     "contenu": "Les événements sont des actions ou des occurrences qui se produisent dans le système que vous programmez...",
-    "createdAt": "2024-07-07T12:02:00Z",
-    "updatedAt": "2024-07-07T12:02:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Alice Brown",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -37,8 +38,8 @@
     "titre": "Les fonctions de rappel en JavaScript",
     "desc": "Comment et pourquoi utiliser des callbacks en JavaScript.",
     "contenu": "Une fonction de rappel est une fonction passée dans une autre fonction en tant qu'argument...",
-    "createdAt": "2024-07-07T12:03:00Z",
-    "updatedAt": "2024-07-07T12:03:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Bob Martin",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -48,8 +49,8 @@
     "titre": "Introduction à ReactJS",
     "desc": "Les bases de ReactJS pour débutants.",
     "contenu": "ReactJS est une bibliothèque JavaScript pour la construction d'interfaces utilisateur...",
-    "createdAt": "2024-07-07T12:04:00Z",
-    "updatedAt": "2024-07-07T12:04:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Charlie Davis",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -59,8 +60,8 @@
     "titre": "Les composants en ReactJS",
     "desc": "Création et utilisation de composants en ReactJS.",
     "contenu": "Les composants sont les éléments de base de toute application React...",
-    "createdAt": "2024-07-07T12:05:00Z",
-    "updatedAt": "2024-07-07T12:05:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Diana White",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -70,8 +71,8 @@
     "titre": "Le cycle de vie des composants en ReactJS",
     "desc": "Comprendre le cycle de vie des composants dans React.",
     "contenu": "Chaque composant React passe par une série d'étapes de naissance, de mise à jour et de mort...",
-    "createdAt": "2024-07-07T12:06:00Z",
-    "updatedAt": "2024-07-07T12:06:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Eve Black",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -81,8 +82,8 @@
     "titre": "Les hooks en ReactJS",
     "desc": "Utilisation des hooks pour gérer l'état et les effets dans les composants fonctionnels.",
     "contenu": "Les hooks sont une nouvelle addition dans React 16.8 qui vous permettent d'utiliser l'état et d'autres fonctionnalités...",
-    "createdAt": "2024-07-07T12:07:00Z",
-    "updatedAt": "2024-07-07T12:07:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Frank Green",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -92,8 +93,8 @@
     "titre": "Introduction à AdonisJS",
     "desc": "Les bases d'AdonisJS pour débutants.",
     "contenu": "AdonisJS est un framework MVC Node.js qui se distingue par sa simplicité et sa structure...",
-    "createdAt": "2024-07-07T12:08:00Z",
-    "updatedAt": "2024-07-07T12:08:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Grace Hale",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -103,8 +104,8 @@
     "titre": "Création d'une API REST avec AdonisJS",
     "desc": "Guide pour créer une API RESTful avec AdonisJS.",
     "contenu": "AdonisJS offre des outils intégrés pour créer facilement des API REST...",
-    "createdAt": "2024-07-07T12:09:00Z",
-    "updatedAt": "2024-07-07T12:09:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Henry Irwin",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -114,8 +115,8 @@
     "titre": "Authentification avec AdonisJS",
     "desc": "Implémentation de l'authentification utilisateur dans AdonisJS.",
     "contenu": "AdonisJS fournit des outils pour gérer l'authentification et la sécurité des applications...",
-    "createdAt": "2024-07-07T12:10:00Z",
-    "updatedAt": "2024-07-07T12:10:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Isabella Jenkins",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -125,8 +126,8 @@
     "titre": "Les migrations de base de données avec AdonisJS",
     "desc": "Utilisation des migrations pour gérer les schémas de base de données dans AdonisJS.",
     "contenu": "Les migrations vous permettent de versionner et de gérer les schémas de vos bases de données...",
-    "createdAt": "2024-07-07T12:11:00Z",
-    "updatedAt": "2024-07-07T12:11:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Jack Kim",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -136,8 +137,8 @@
     "titre": "Introduction à PHP",
     "desc": "Les bases de PHP pour débutants.",
     "contenu": "PHP est un langage de script côté serveur largement utilisé pour le développement web...",
-    "createdAt": "2024-07-07T12:12:00Z",
-    "updatedAt": "2024-07-07T12:12:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Kevin Lee",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -147,8 +148,8 @@
     "titre": "Manipulation des formulaires en PHP",
     "desc": "Comment traiter les données de formulaires en PHP.",
     "contenu": "Les formulaires HTML permettent de recueillir des données auprès des utilisateurs et de les envoyer au serveur pour traitement...",
-    "createdAt": "2024-07-07T12:13:00Z",
-    "updatedAt": "2024-07-07T12:13:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Laura Moore",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -158,8 +159,8 @@
     "titre": "Gestion des sessions en PHP",
     "desc": "Utilisation des sessions pour maintenir l'état entre les requêtes en PHP.",
     "contenu": "Les sessions permettent de conserver des informations sur l'utilisateur à travers plusieurs pages...",
-    "createdAt": "2024-07-07T12:14:00Z",
-    "updatedAt": "2024-07-07T12:14:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Mike Nelson",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -169,8 +170,8 @@
     "titre": "Introduction à Symfony",
     "desc": "Les bases de Symfony pour débutants.",
     "contenu": "Symfony est un framework PHP populaire pour développer des applications web robustes...",
-    "createdAt": "2024-07-07T12:15:00Z",
-    "updatedAt": "2024-07-07T12:15:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Nina Owens",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -180,8 +181,8 @@
     "titre": "Les contrôleurs dans Symfony",
     "desc": "Création et gestion des contrôleurs dans Symfony.",
     "contenu": "Les contrôleurs sont responsables de traiter les requêtes HTTP et de renvoyer des réponses...",
-    "createdAt": "2024-07-07T12:16:00Z",
-    "updatedAt": "2024-07-07T12:16:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Oscar Perez",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -191,8 +192,8 @@
     "titre": "Les entités et le mapping en Symfony",
     "desc": "Utilisation des entités et du mapping pour gérer les données en Symfony.",
     "contenu": "Les entités représentent les objets de votre application et sont mappées aux tables de la base de données...",
-    "createdAt": "2024-07-07T12:17:00Z",
-    "updatedAt": "2024-07-07T12:17:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Paul Quinn",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -202,8 +203,8 @@
     "titre": "Les formulaires dans Symfony",
     "desc": "Création et gestion des formulaires dans Symfony.",
     "contenu": "Le composant Form de Symfony vous permet de créer facilement des formulaires complexes...",
-    "createdAt": "2024-07-07T12:18:00Z",
-    "updatedAt": "2024-07-07T12:18:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Rachel Scott",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -213,8 +214,8 @@
     "titre": "Les services dans Symfony",
     "desc": "Utilisation et création de services dans Symfony.",
     "contenu": "Les services sont des objets PHP qui effectuent des tâches spécifiques dans votre application...",
-    "createdAt": "2024-07-07T12:19:00Z",
-    "updatedAt": "2024-07-07T12:19:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Steve Turner",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -224,8 +225,8 @@
     "titre": "Les promesses en JavaScript",
     "desc": "Comprendre et utiliser les promesses en Vanilla JavaScript.",
     "contenu": "Les promesses sont une façon de gérer les opérations asynchrones en JavaScript...",
-    "createdAt": "2024-07-07T12:20:00Z",
-    "updatedAt": "2024-07-07T12:20:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Uma Voss",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -235,8 +236,8 @@
     "titre": "Les modules en JavaScript",
     "desc": "Utilisation des modules pour structurer votre code JavaScript.",
     "contenu": "Les modules JavaScript permettent de séparer votre code en fichiers réutilisables...",
-    "createdAt": "2024-07-07T12:21:00Z",
-    "updatedAt": "2024-07-07T12:21:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Victor Wong",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -246,8 +247,8 @@
     "titre": "Le routing dans ReactJS",
     "desc": "Gestion de la navigation dans une application React avec React Router.",
     "contenu": "React Router est une bibliothèque standard pour gérer les routes dans une application React...",
-    "createdAt": "2024-07-07T12:22:00Z",
-    "updatedAt": "2024-07-07T12:22:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Wendy Xu",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -257,8 +258,8 @@
     "titre": "Les contextes en ReactJS",
     "desc": "Utilisation du Context API pour gérer l'état global dans React.",
     "contenu": "Le Context API permet de passer des données à travers l'arborescence des composants sans avoir à passer des props manuellement...",
-    "createdAt": "2024-07-07T12:23:00Z",
-    "updatedAt": "2024-07-07T12:23:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Xander Yates",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -268,8 +269,8 @@
     "titre": "Les middlewares dans AdonisJS",
     "desc": "Création et utilisation des middlewares pour la gestion des requêtes HTTP dans AdonisJS.",
     "contenu": "Les middlewares sont des fonctions qui s'exécutent avant d'atteindre votre contrôleur...",
-    "createdAt": "2024-07-07T12:24:00Z",
-    "updatedAt": "2024-07-07T12:24:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Yasmine Zahra",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -279,8 +280,8 @@
     "titre": "La validation des données en AdonisJS",
     "desc": "Utilisation des validateurs pour assurer l'intégrité des données en AdonisJS.",
     "contenu": "La validation est une partie essentielle de toute application pour garantir que les données fournies par l'utilisateur...",
-    "createdAt": "2024-07-07T12:25:00Z",
-    "updatedAt": "2024-07-07T12:25:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Zara Blake",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -290,8 +291,8 @@
     "titre": "Les fonctions PHP les plus utiles",
     "desc": "Découvrez les fonctions PHP les plus utilisées et comment les utiliser.",
     "contenu": "PHP offre une vaste gamme de fonctions intégrées qui facilitent le développement web...",
-    "createdAt": "2024-07-07T12:26:00Z",
-    "updatedAt": "2024-07-07T12:26:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Alex Carter",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -301,8 +302,8 @@
     "titre": "Les frameworks PHP populaires",
     "desc": "Un aperçu des frameworks PHP les plus populaires et leurs avantages.",
     "contenu": "Les frameworks PHP permettent de structurer et d'accélérer le développement des applications web...",
-    "createdAt": "2024-07-07T12:27:00Z",
-    "updatedAt": "2024-07-07T12:27:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Bella Diaz",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -312,8 +313,8 @@
     "titre": "L'architecture MVC en Symfony",
     "desc": "Comprendre le modèle MVC et son implémentation dans Symfony.",
     "contenu": "Symfony suit le modèle de conception MVC (Modèle-Vue-Contrôleur) qui sépare les préoccupations de votre application...",
-    "createdAt": "2024-07-07T12:28:00Z",
-    "updatedAt": "2024-07-07T12:28:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Carlos Evans",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -323,8 +324,8 @@
     "titre": "Les événements et les listeners en Symfony",
     "desc": "Utilisation des événements et listeners pour réagir aux actions dans Symfony.",
     "contenu": "Les événements permettent de déclencher des actions spécifiques lorsqu'un certain événement se produit...",
-    "createdAt": "2024-07-07T12:29:00Z",
-    "updatedAt": "2024-07-07T12:29:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Dana Foster",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -334,8 +335,8 @@
     "titre": "Les animations en Vanilla JavaScript",
     "desc": "Création d'animations sans bibliothèques externes en JavaScript pur.",
     "contenu": "Les animations peuvent améliorer l'expérience utilisateur en rendant les interfaces plus dynamiques...",
-    "createdAt": "2024-07-07T12:30:00Z",
-    "updatedAt": "2024-07-07T12:30:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Eva Gomez",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -345,8 +346,8 @@
     "titre": "Les meilleures pratiques de ReactJS",
     "desc": "Guide des meilleures pratiques pour développer des applications React robustes.",
     "contenu": "Suivre les meilleures pratiques vous aide à écrire du code React maintenable et évolutif...",
-    "createdAt": "2024-07-07T12:31:00Z",
-    "updatedAt": "2024-07-07T12:31:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "George Harris",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -356,8 +357,8 @@
     "titre": "Les templates en AdonisJS",
     "desc": "Utilisation des moteurs de templates pour générer du HTML dynamique dans AdonisJS.",
     "contenu": "AdonisJS supporte différents moteurs de templates pour rendre vos pages HTML...",
-    "createdAt": "2024-07-07T12:32:00Z",
-    "updatedAt": "2024-07-07T12:32:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Hannah Irvine",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -367,8 +368,8 @@
     "titre": "Optimisation des performances en PHP",
     "desc": "Astuces et techniques pour améliorer les performances de vos applications PHP.",
     "contenu": "Optimiser les performances de votre application PHP peut réduire les temps de chargement et améliorer l'expérience utilisateur...",
-    "createdAt": "2024-07-07T12:33:00Z",
-    "updatedAt": "2024-07-07T12:33:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Ian Johnson",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -378,8 +379,8 @@
     "titre": "Les bundles dans Symfony",
     "desc": "Création et utilisation de bundles pour structurer vos applications Symfony.",
     "contenu": "Les bundles sont des paquets réutilisables de fonctionnalités qui peuvent être partagés et utilisés dans plusieurs applications Symfony...",
-    "createdAt": "2024-07-07T12:34:00Z",
-    "updatedAt": "2024-07-07T12:34:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "James Kelly",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -389,8 +390,8 @@
     "titre": "Les collections en Vanilla JavaScript",
     "desc": "Utilisation des collections comme Map et Set en JavaScript pur.",
     "contenu": "Les collections en JavaScript comme Map et Set offrent des moyens efficaces de gérer des ensembles de données uniques...",
-    "createdAt": "2024-07-07T12:35:00Z",
-    "updatedAt": "2024-07-07T12:35:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Katie Lewis",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -400,8 +401,8 @@
     "titre": "Les outils de développement pour ReactJS",
     "desc": "Présentation des outils les plus utiles pour développer avec ReactJS.",
     "contenu": "De nombreux outils peuvent faciliter le développement avec React, notamment les extensions de navigateur et les bibliothèques de débogage...",
-    "createdAt": "2024-07-07T12:36:00Z",
-    "updatedAt": "2024-07-07T12:36:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Liam Morgan",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -411,8 +412,8 @@
     "titre": "Les relations entre les modèles en AdonisJS",
     "desc": "Gestion des relations entre les modèles dans AdonisJS.",
     "contenu": "Les relations entre les modèles permettent de lier des tables de bases de données de manière logique...",
-    "createdAt": "2024-07-07T12:37:00Z",
-    "updatedAt": "2024-07-07T12:37:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Mia Nguyen",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -422,8 +423,8 @@
     "titre": "Sécuriser vos applications PHP",
     "desc": "Meilleures pratiques pour sécuriser vos applications développées en PHP.",
     "contenu": "La sécurité est cruciale pour protéger vos applications et les données des utilisateurs...",
-    "createdAt": "2024-07-07T12:38:00Z",
-    "updatedAt": "2024-07-07T12:38:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Nathan O'Brien",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -433,8 +434,8 @@
     "titre": "Les tests unitaires en Symfony",
     "desc": "Introduction aux tests unitaires pour les applications Symfony.",
     "contenu": "Les tests unitaires permettent de vérifier que chaque partie de votre code fonctionne correctement...",
-    "createdAt": "2024-07-07T12:39:00Z",
-    "updatedAt": "2024-07-07T12:39:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Olivia Parker",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -444,8 +445,8 @@
     "titre": "Les closures en JavaScript",
     "desc": "Comprendre et utiliser les closures en JavaScript pur.",
     "contenu": "Les closures sont une puissante fonctionnalité de JavaScript qui permet de créer des fonctions avec un état privé...",
-    "createdAt": "2024-07-07T12:40:00Z",
-    "updatedAt": "2024-07-07T12:40:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Peter Roberts",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -455,8 +456,8 @@
     "titre": "Les composants réutilisables en ReactJS",
     "desc": "Création de composants réutilisables et maintenables dans ReactJS.",
     "contenu": "Les composants réutilisables permettent de réduire la redondance et de maintenir un code plus propre...",
-    "createdAt": "2024-07-07T12:41:00Z",
-    "updatedAt": "2024-07-07T12:41:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Quinn Smith",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -466,8 +467,8 @@
     "titre": "Les tâches planifiées en AdonisJS",
     "desc": "Création et gestion de tâches planifiées dans AdonisJS.",
     "contenu": "Les tâches planifiées permettent d'automatiser des processus récurrents comme les sauvegardes et les notifications...",
-    "createdAt": "2024-07-07T12:42:00Z",
-    "updatedAt": "2024-07-07T12:42:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Rebecca Taylor",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -477,8 +478,8 @@
     "titre": "Les outils de débogage pour PHP",
     "desc": "Présentation des outils et techniques pour déboguer efficacement en PHP.",
     "contenu": "Le débogage est une partie essentielle du développement pour identifier et résoudre les erreurs dans votre code...",
-    "createdAt": "2024-07-07T12:43:00Z",
-    "updatedAt": "2024-07-07T12:43:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Samuel Underwood",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -488,8 +489,8 @@
     "titre": "Les API dans Symfony",
     "desc": "Création et gestion des API dans une application Symfony.",
     "contenu": "Symfony offre des outils puissants pour créer des API RESTful robustes...",
-    "createdAt": "2024-07-07T12:44:00Z",
-    "updatedAt": "2024-07-07T12:44:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Tina Van",
     "category": "Symfony",
     "img": "https://picsum.photos/300/300"
@@ -499,8 +500,8 @@
     "titre": "Les promesses avec Async/Await en JavaScript",
     "desc": "Utilisation des promesses avec async/await pour une gestion asynchrone plus simple en JavaScript pur.",
     "contenu": "Async/Await est une syntaxe moderne pour gérer les promesses en JavaScript...",
-    "createdAt": "2024-07-07T12:45:00Z",
-    "updatedAt": "2024-07-07T12:45:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Uma White",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
@@ -510,8 +511,8 @@
     "titre": "Les hooks personnalisés en ReactJS",
     "desc": "Création de hooks personnalisés pour réutiliser la logique dans ReactJS.",
     "contenu": "Les hooks personnalisés permettent de réutiliser la logique de composants sans répéter le code...",
-    "createdAt": "2024-07-07T12:46:00Z",
-    "updatedAt": "2024-07-07T12:46:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Victor Xu",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
@@ -521,8 +522,8 @@
     "titre": "Les vues en AdonisJS",
     "desc": "Gestion des vues et des templates dans AdonisJS.",
     "contenu": "Les vues dans AdonisJS permettent de générer dynamiquement du HTML basé sur vos données...",
-    "createdAt": "2024-07-07T12:47:00Z",
-    "updatedAt": "2024-07-07T12:47:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Wanda Young",
     "category": "AdonisJS",
     "img": "https://picsum.photos/300/300"
@@ -532,8 +533,8 @@
     "titre": "L'intégration continue pour les applications PHP",
     "desc": "Mise en place d'un pipeline d'intégration continue pour automatiser les tests et déploiements des applications PHP.",
     "contenu": "L'intégration continue permet de détecter et corriger rapidement les bugs en automatisant les tests et déploiements...",
-    "createdAt": "2024-07-07T12:48:00Z",
-    "updatedAt": "2024-07-07T12:48:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Xander Zane",
     "category": "PHP",
     "img": "https://picsum.photos/300/300"
@@ -543,16 +544,10 @@
     "titre": "La gestion de l'état avec Redux",
     "desc": "Utilisation de Redux pour gérer l'état global dans une application React.",
     "contenu": "Redux est une bibliothèque populaire pour gérer l'état global de l'application de manière prévisible...",
-    "createdAt": "2024-07-07T12:49:00Z",
-    "updatedAt": "2024-07-07T12:49:00Z",
+    "createdAt": "07 Juillzt 2024",
+    "updatedAt": "08 juillet 2024",
     "signature": "Yara Akhtar",
     "category": "ReactJS",
     "img": "https://picsum.photos/300/300"
     }
-]
-
-//   def filter_articles_by_category(articles, category):
-//       return [article for article in articles if article['category'] == category]
-
-//   symfony_articles = filter_articles_by_category(articles, "Symfony")
-//   symfony_articles
+]}
