@@ -4,7 +4,9 @@
     "titre": "Introduction à Vanilla JavaScript",
     "desc": "Les bases de Vanilla JavaScript pour débutants.",
     "contenu": "Vanilla JavaScript est le terme utilisé pour désigner JavaScript pur, sans bibliothèques ou frameworks...",
-    "createdAt": "07 Juillet 2024  "updatedAt": "08 Juillet 2024  "signature": "John Doe",
+    "createdAt": "07 Juillet 2024",
+    "updatedAt": "08 Juillet 2024",
+    "signature": "John Doe",
     "category": "Vanilla",
     "img": "https://picsum.photos/300/300"
     },
@@ -548,9 +550,3 @@
     "img": "https://picsum.photos/300/300"
     }
 ]
-
-//   def filter_articles_by_category(articles, category):
-//       return [article for article in articles if article['category'] == category]
-
-//   symfony_articles = filter_articles_by_category(articles, "Symfony")
-//   symfony_articles
